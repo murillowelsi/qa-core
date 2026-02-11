@@ -1,6 +1,7 @@
 # QA Core
 
-A comprehensive knowledge base for software testing fundamentals, practices, and methodologies.
+A comprehensive knowledge base for software testing fundamentals,
+practices, and methodologies.
 
 ## Structure
 
@@ -15,4 +16,5 @@ A comprehensive knowledge base for software testing fundamentals, practices, and
 
 ## Usage
 
-Navigate through the folders to explore different aspects of software testing and quality assurance.
+Navigate through the folders to explore different aspects of software
+testing and quality assurance.
